@@ -1,0 +1,1 @@
+{"description":"One Star, Five Stars for the Food — an alien tourist's one-star review of Earth that still compliments the food.","license":"MIT","main":"main.ts","name":"makefun-alien-food-review","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
